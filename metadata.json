@@ -1,0 +1,5 @@
+{
+  "name": "AI Food Photography Pro",
+  "description": "Generate stunning, professional-quality food photography shots by describing a dish and selecting stylistic options. This tool constructs a detailed prompt and uses AI to create the image, perfect for menus, social media, and websites.",
+  "requestFramePermissions": []
+}
